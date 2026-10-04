@@ -1,0 +1,10 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.labs_pocketz",
+    "sha256_cert_fingerprints": [
+      "F5:FE:0C:74:C6:79:2E:97:DC:0F:E1:C7:23:6A:F8:F0:3D:7C:84:66:60:8F:0A:AA:D4:07:6F:32:4D:06:25:77"
+    ]
+  }
+}]
